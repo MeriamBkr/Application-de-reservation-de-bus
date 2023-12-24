@@ -43,6 +43,33 @@ Pour la création de cette application de réservation de bus, j'ai utilisé le 
 ### Voir la liste des bus (Choix 1)
 <img src="Captures/Voir liste des bus.png">
 
-### Faire une réservation
-<img src="Captures/reservation (1).png">
+### Faire une réservation (Choix 2)
+<img src="Captures/reservation (1).PNG">
 <img src="Captures/reservation (2).png">
+
+### Auto création d'un ficher texte :reservations.txt, qui contient les voyageurs avec leur ID
+<img src="Captures/Fichier des voyageurs.png">
+
+### Annuler une réservation (Choix 3)
+<img src="Captures/Annuler reservation.png">
+
+### Voir les détails des sièges (Choix 4)
+<img src="Captures/Voir sièges.png">
+
+### Voir les détails d'une réservation (Choix 5)
+<img src="Captures/Voir détails reservation.png">
+
+### Quitter le programme (Choix 6)
+<img src="Captures/Quitter le programme.png">
+
+
+
+
+
+
+
+
+
+
+
+
