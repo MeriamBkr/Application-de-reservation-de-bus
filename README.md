@@ -32,7 +32,13 @@ Avec quel langage de programmation cette application a étée créée?
 Pour la création de cette application de réservation de bus, j'ai utilisé le langage C.
 
 
+## Traces d'exécution
 
+### Interface Login
 <img src="Captures/Login.png">
+
+### Visualisation du menu principal
+<img src="Captures/Menu-principal.png">
+
 
 
