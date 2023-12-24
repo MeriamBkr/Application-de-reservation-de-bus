@@ -15,6 +15,7 @@ A l'aide de cette application, un voyageur peut:
 * Consulter la liste des bus disponibles.
 * Faire une réservation.
 * Annuler une reservation.
+* Voir les détails des sièges d'un bus.
 * Voir les détails d'une réservation.
 
 
