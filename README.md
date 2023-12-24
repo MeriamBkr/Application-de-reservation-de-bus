@@ -38,7 +38,7 @@ Pour la création de cette application de réservation de bus, j'ai utilisé le 
 <img src="Captures/Login.png">
 
 ### Visualisation du menu principal
-<img src="Captures/Menu-principal.png">
+<img src="Captures/Menu principal.png">
 
 
 
