@@ -62,7 +62,7 @@ Pour la création de cette application de réservation de bus, j'ai utilisé le 
 ### Quitter le programme (Choix 6)
 <img src="Captures/Quitter le programme.png">
 
-### En cas d'erreur de saisie
+### Quelques exemples en cas d'erreur de saisie
 #### Saisir un numéro qui ne correspond pas aux choix du menu principal:
 <img src="Captures/Erreur choix menu.png">
 #### Réserver un nombre de sièges qui dépasse la limite:
