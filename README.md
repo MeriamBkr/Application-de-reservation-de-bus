@@ -24,11 +24,11 @@ A l'aide de cette application, un voyageur peut:
 ### Question 1
 En tant qu'utilisateur de cette application, comment je peut commencer à l'utiliser?
 
-#### Answer 1
+#### Réponse 1
 Pour pouvoir manipuler cette application, l'utilisateur doit commencer par introduire son login et son mot de passe. Dans ce cas le login c'es"meriam" et le mot de passe est "meriam123".
 ### Question 2
 Avec quel langage de programmation cette application a étée créée?
-#### Answer 2
+#### Réponse 2
 Pour la création de cette application de réservation de bus, j'ai utilisé le langage C.
 
 
