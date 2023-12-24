@@ -40,5 +40,9 @@ Pour la création de cette application de réservation de bus, j'ai utilisé le 
 ### Visualisation du menu principal
 <img src="Captures/Menu principal.png">
 
+### Voir la liste des bus (Choix 1)
+<img src="Captures/Voir liste des bus.png">
 
-
+### Faire une réservation
+<img src="Captures/reservation (1).png">
+<img src="Captures/reservation (2).png">
