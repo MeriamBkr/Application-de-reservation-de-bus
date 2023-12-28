@@ -23,13 +23,23 @@ A l'aide de cette application, un voyageur peut:
 
 ### Question 1
 En tant qu'utilisateur de cette application, comment je peut commencer à l'utiliser?
-
 #### Réponse 1
 Pour pouvoir manipuler cette application, l'utilisateur doit commencer par introduire son login et son mot de passe. Dans ce cas le login c'es"meriam" et le mot de passe est "meriam123".
+
 ### Question 2
 Avec quel langage de programmation cette application a étée créée?
 #### Réponse 2
 Pour la création de cette application de réservation de bus, j'ai utilisé le langage C.
+
+### Question 3
+Comment vous avez amélioré votre projet?
+#### Réponse 3
+Afin d'améliorer mon projet, j'ai ajouté quelques fonctionnalités et notions qui permettront d'optimiser l'exécution du programme et de le rendre ergonomique tels que:
+* L'utilisation des pointeurs.
+* Lutilisation des fonctions et des procédures.
+* L'utilisation de la notion du stockage des données dans un fichier.
+* L'ajout de la fonctionnalité "Annuler une réservation".
+* L'intégration d'une palette de couleurs dans mon application afin de lui conférer une esthétique plus attrayante et plaisante.
 
 
 ## Traces d'exécution
